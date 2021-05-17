@@ -1,0 +1,12 @@
+okk cuyy buat jalanin tool hack fb atau Multi Brute Force
+lu harus install bahan2 nya di bawah
+
+pkg update && pkg upgrade
+pkg install python2
+pkg install request
+pip2 install bs4
+Pip2 install requests
+pkg install git
+git clone https://github.com/IqbalDev/mbf_premium
+cd mbf_premium
+python2 premium_dev.py
